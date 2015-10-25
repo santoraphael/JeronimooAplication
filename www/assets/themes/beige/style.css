@@ -4980,7 +4980,7 @@ hr.align-center::after {
 }
 
 .mt-15 {
-  margin-top: 15px !important;
+  margin-top: 80px !important;
 }
 
 .mt-20 {
@@ -6422,6 +6422,12 @@ article .text span {
   color: rgba(255, 255, 255, 0.6);
   margin-right: 10px;
   float: right;
+}
+
+article img{
+    display: table;
+    margin: 0 auto;
+    margin-top:3px;
 }
 
 .card-footer {
