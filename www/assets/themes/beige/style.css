@@ -5483,13 +5483,13 @@ html:not(.watch-active-state) .list-block .item-link:active {
   }
 }
 .nice-header.small {
-  min-height: 200px;
+  min-height: 115px;
 }
 .nice-header.small .logo {
-  top: 67px;
+  top: 15px;
 }
 .nice-header.small .logo h1 {
-  font-size: 60px;
+  font-size: 15px;
 }
 .nice-header.small .logo h2 {
   font-size: 13px;
@@ -6401,9 +6401,10 @@ article .buttons a:hover {
 article .text {
   position: absolute;
   bottom: 15px;
-  left: 15px;
+  right: 3px ;
   z-index: 10;
 }
+
 article .text h2 {
   color: #FFFFFF;
   margin: 0;
@@ -6411,6 +6412,7 @@ article .text h2 {
 }
 article .text h2 a {
   color: #FFFFFF;
+  margin-left: 96px;
 }
 article .text h2 a:hover {
   opacity: 0.5;
@@ -6419,6 +6421,7 @@ article .text span {
   font-size: 12px;
   color: rgba(255, 255, 255, 0.6);
   margin-right: 10px;
+  float: right;
 }
 
 .card-footer {
