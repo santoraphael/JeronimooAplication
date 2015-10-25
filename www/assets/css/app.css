@@ -5517,8 +5517,6 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .nice-header .logo {
   position: relative;
   display: inline-block;
-  border-top: 3px solid rgba(255, 255, 255, 0.3);
-  border-bottom: 3px solid rgba(255, 255, 255, 0.3);
   padding: 0 10px 10px;
   top: 75px;
 }
