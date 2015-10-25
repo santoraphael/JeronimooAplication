@@ -4834,11 +4834,11 @@ hr.align-center::after {
 
 .contact-type-list .contact-icon {
   font-size: 26px;
-  color: #f9ecdb;
+  color: #681170;
 }
 .contact-type-list .contact-label {
   font-size: 11px;
-  color: #f9ecdb;
+  color: #681170;
   font-family: 'robotobold', Arial, Tahoma, sans-serif;
 }
 .contact-type-list .contact-text {
@@ -4871,8 +4871,8 @@ hr.align-center::after {
 }
 
 .navbar-color-primary {
-  background: #f9ecdb !important;
-  color: #7D7161 !important;
+  background: #681170 !important;
+  color: #FFF !important;
 }
 
 .splash .splash-welcome {
@@ -5059,7 +5059,7 @@ hr.align-center::after {
 blockquote {
   padding: 0 0 0 20px;
   margin: 10px 0;
-  border-left: 5px solid #f9ecdb;
+  border-left: 5px solid #681170;
   font-family: 'robotolight_italic', sans-serif;
 }
 blockquote .author {
@@ -5083,21 +5083,21 @@ blockquote .author {
   border: 1px solid;
 }
 .button.button-primary {
-  border-color: #f9ecdb;
-  color: #f9ecdb;
+  border-color: #681170;
+  color: #681170;
 }
 .button.button-primary:hover, .button.button-primary.active, .button.button-primary.active-state {
-  background: #f9ecdb;
-  color: #7D7161;
+  background: #681170;
+  color: #FFF;
 }
 .button.button-primary.button-fill {
-  background: #f9ecdb;
-  color: #7D7161;
+  background: #681170;
+  color: #FFF;
 }
 .button.button-primary.button-fill:hover, .button.button-primary.button-fill.active, .button.button-primary.button-fill.active-state {
-  border-color: #f9ecdb;
+  border-color: #681170;
   background: #2E2C37;
-  color: #f9ecdb;
+  color: #681170;
 }
 .button.button-secondary {
   border-color: #DBEEF9;
@@ -5148,7 +5148,7 @@ blockquote .author {
 .button-header {
   display: inline-block;
   background: #e7b26e;
-  color: #7D7161;
+  color: #FFF;
   line-height: 1;
   margin: 0 0 0 4px;
   text-align: center;
@@ -5161,7 +5161,7 @@ blockquote .author {
 }
 .button-header > span {
   display: inline-block;
-  background: #f9ecdb;
+  background: #681170;
   width: 41px;
   height: 41px;
   border-radius: 50%;
@@ -5304,7 +5304,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-family: 'robotolight', sans-serif;
-  color: #f9ecdb;
+  color: #681170;
 }
 
 h2 {
@@ -5345,8 +5345,8 @@ img {
 }
 
 .badge-primary {
-  background: #f9ecdb;
-  color: #7D7161;
+  background: #681170;
+  color: #FFF;
 }
 
 .badge-secondary {
@@ -5355,7 +5355,7 @@ img {
 }
 
 .owl-theme .owl-controls .owl-page span {
-  background-color: #f9ecdb;
+  background-color: #681170;
 }
 
 header.small {
@@ -5383,7 +5383,7 @@ header.small .row > div span {
 }
 
 .color-box {
-  background-color: #f9ecdb;
+  background-color: #681170;
   color: #FFFFFF;
 }
 
@@ -5472,8 +5472,8 @@ html:not(.watch-active-state) .list-block .item-link:active {
 
 .nice-header {
   position: relative;
-  background: #f9ecdb;
-  color: #7D7161;
+  background: #681170;
+  color: #FFF;
   min-height: 250px;
   text-align: center;
 }
@@ -5512,7 +5512,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   }
 }
 .nice-header svg g {
-  fill: #f9ecdb;
+  fill: #681170;
 }
 .nice-header .logo {
   position: relative;
@@ -5529,7 +5529,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 }
 .nice-header .logo h1, .nice-header .logo h2 {
   margin: 0;
-  color: #7D7161;
+  color: #FFF;
   line-height: 1;
 }
 .nice-header .logo h1 {
@@ -5677,19 +5677,19 @@ html:not(.watch-active-state) .list-block .item-link:active {
 /*    5. HEADER/FOOTER/SIDEBAR                 */
 /* =========================================== */
 .navbar {
-  background: #f9ecdb;
-  color: #7D7161;
+  background: #681170;
+  color: #FFF;
   font-family: 'robotolight', sans-serif;
   text-transform: uppercase;
 }
 .navbar:after {
-  background: #f9ecdb;
+  background: #681170;
 }
 .navbar .kkicon {
   font-size: 20px;
 }
 .navbar a.link {
-  color: #7D7161;
+  color: #FFF;
   font-size: 14px;
   font-family: 'robotolight', sans-serif;
 }
@@ -5709,7 +5709,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   -webkit-transition: all 400ms;
           transition: all 400ms;
   background: transparent;
-  color: #7D7161;
+  color: #FFF;
 }
 .navbar-anim-on-scroll:after,
 .navbar.navbar-clear:after {
@@ -5721,20 +5721,20 @@ html:not(.watch-active-state) .list-block .item-link:active {
 }
 .navbar-anim-on-scroll a.link,
 .navbar.navbar-clear a.link {
-  color: #7D7161;
+  color: #FFF;
 }
 .navbar-anim-on-scroll.active,
 .navbar.navbar-clear.active {
-  background: #f9ecdb;
-  color: #7D7161;
+  background: #681170;
+  color: #FFF;
 }
 .navbar-anim-on-scroll.active:after,
 .navbar.navbar-clear.active:after {
-  background: #f9ecdb;
+  background: #681170;
 }
 .navbar-anim-on-scroll.active a.link,
 .navbar.navbar-clear.active a.link {
-  color: #7D7161;
+  color: #FFF;
 }
 
 .toolbar .link {
@@ -5779,7 +5779,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   color: #FFFFFF;
 }
 .panel .list-block .list-group ul li .item-primary:hover {
-  background: #f9ecdb;
+  background: #681170;
 }
 .panel .list-block .list-group ul li:after {
   background-color: #333333;
@@ -5839,7 +5839,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 /* =========================================== */
 [data-page="settings"] .item-media > span {
   font-size: 20px;
-  color: #f9ecdb;
+  color: #681170;
 }
 
 .page-bg {
@@ -5855,7 +5855,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 }
 
 .page-bg-color {
-  background: #f9ecdb;
+  background: #681170;
 }
 .page-bg-color[data-page="menu"] {
   background: url("img/bg.jpg") no-repeat top center transparent;
@@ -5897,7 +5897,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   box-shadow: 0 2px 1px -2px rgba(0, 0, 0, 0.3);
 }
 .dashboard-menu .menu-link:hover {
-  background: #f9ecdb;
+  background: #681170;
   background: rgba(249, 236, 219, 0.7);
 }
 .dashboard-menu .menu-link > span:first-child {
@@ -5967,7 +5967,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .popup h2 {
   text-transform: uppercase;
   font-family: 'robotoblack', sans-serif;
-  color: #f9ecdb;
+  color: #681170;
   font-size: 28px;
   margin-bottom: 5px;
   margin-top: 10px;
@@ -6010,7 +6010,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .popup .more-info {
   position: absolute;
   bottom: 20px;
-  color: #f9ecdb;
+  color: #681170;
   text-align: center;
   width: 100%;
   margin-left: -20px;
@@ -6022,7 +6022,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .picker-modal .toolbar:before, .picker-modal .toolbar:after,
 .popup .toolbar:before,
 .popup .toolbar:after {
-  background: #f9ecdb;
+  background: #681170;
   background: rgba(249, 236, 219, 0.9);
   content: '';
   position: absolute;
@@ -6045,7 +6045,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
 }
 .picker-modal .toolbar a,
 .popup .toolbar a {
-  color: #f9ecdb;
+  color: #681170;
   font-family: 'robotolight', sans-serif;
 }
 .picker-modal .close-popup,
@@ -6053,7 +6053,7 @@ html:not(.watch-active-state) .list-block .item-link:active {
   position: absolute;
   top: 15px;
   right: 15px;
-  color: #f9ecdb;
+  color: #681170;
 }
 .picker-modal .close-popup > span,
 .popup .close-popup > span {
@@ -6095,14 +6095,14 @@ html:not(.watch-active-state) .list-block .item-link:active {
 .popup .swiper-container .swiper-slide .button {
   color: #FFFFFF;
   border-color: #FFFFFF;
-  background: #f9ecdb;
+  background: #681170;
   height: 44px;
   line-height: 44px;
 }
 .picker-modal .swiper-container .bottom-color,
 .popup .swiper-container .bottom-color {
   position: absolute;
-  background: #f9ecdb;
+  background: #681170;
   top: 50%;
   left: 0;
   right: 0;
@@ -6466,14 +6466,14 @@ article .text span {
   color: #333333;
 }
 .card.card-header-map .card-footer a, .card.card-header-pic .card-footer a {
-  color: #f9ecdb;
+  color: #681170;
 }
 .card.card-header-icon .card-header {
   background: #666666;
-  color: #7D7161;
+  color: #FFF;
 }
 .card.card-header-icon .card-header.item-content-icon::before {
-  color: #7D7161;
+  color: #FFF;
   font-size: 49px;
   left: 0;
   top: 0;
@@ -6492,7 +6492,7 @@ article .text span {
   line-height: 1.4;
 }
 .card.card-header-icon .card-content-inner a > h4 {
-  color: #f9ecdb;
+  color: #681170;
   font-size: 14px;
   margin-bottom: 5px;
 }
@@ -6542,10 +6542,10 @@ article .text span {
   padding: 0 15px;
 }
 .blog-box li .blog-list .text .title {
-  color: #f9ecdb;
+  color: #681170;
 }
 .blog-box li .blog-list .text .title a {
-  color: #f9ecdb;
+  color: #681170;
 }
 .blog-box li .blog-list .text small {
   font-size: 11px;
@@ -6641,7 +6641,7 @@ article .text span {
   top: 19px;
   left: 10px;
   content: "";
-  color: #f9ecdb;
+  color: #681170;
   font-size: 20px;
   line-height: 1;
 }
@@ -6707,7 +6707,7 @@ article .text span {
 }
 
 .accordion-item.accordion-item-expanded .accordion-item-toggle {
-  background: #f9ecdb;
+  background: #681170;
   color: #ffffff;
 }
 .accordion-item.accordion-item-expanded .accordion-item-content {
@@ -6715,7 +6715,7 @@ article .text span {
 }
 .accordion-item .accordion-item-toggle {
   padding: 5px 10px;
-  border: 1px solid #f9ecdb;
+  border: 1px solid #681170;
   margin-top: -1px;
 }
 
@@ -6778,11 +6778,11 @@ article .text span {
   content: "\f099";
   top: 8px;
   left: 15px;
-  color: #f9ecdb;
+  color: #681170;
   font-size: 22px;
 }
 .twitter-content ul li a {
-  color: #f9ecdb;
+  color: #681170;
 }
 
 /* =========================================== */
@@ -6820,8 +6820,8 @@ article .text span {
   width: 100%;
 }
 .message.message-sent .message-text {
-  background-color: #f9ecdb;
-  color: #7D7161;
+  background-color: #681170;
+  color: #FFF;
 }
 .message .message-text {
   min-height: 32px;
@@ -6833,7 +6833,7 @@ article .text span {
   font-size: 15px;
 }
 .messagebar textarea + .link {
-  color: #f9ecdb;
+  color: #681170;
   font-size: 18px;
 }
 
@@ -6951,7 +6951,7 @@ article .text span {
 /*    THEME                                    */
 /* =========================================== */
 .page-bg-color {
-  background: #f9ecdb;
+  background: #681170;
 }
 .page-bg-color[data-page="menu"]::after {
   content: "";
@@ -6976,19 +6976,19 @@ article .text span {
   background: #f6f8f9;
 }
 .card.card-header-icon .card-header {
-  background: #7D7161;
-  color: #f9ecdb;
+  background: #FFF;
+  color: #681170;
 }
 .card.card-header-icon .card-header.item-content-icon::before {
   color: white;
 }
 .card.card-header-icon .card-content-inner a > h4 {
-  color: #7D7161;
+  color: #FFF;
 }
 
 .contact-type-list .contact-icon {
-  color: #7D7161;
+  color: #FFF;
 }
 .contact-type-list .contact-label {
-  color: #7D7161;
+  color: #FFF;
 }
